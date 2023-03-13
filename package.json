@@ -12,7 +12,8 @@
     "@types/react-dom": "^18.0.9",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.3",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@xsvetli1/bug-reporting-tool": "^0.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
